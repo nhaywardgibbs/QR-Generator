@@ -8,7 +8,6 @@
 body{
     background:#f8b9e6;
 }
-
 .container{
     width: 400px;
     padding: 25px 35px;
@@ -27,9 +26,10 @@ body{
 }
 
 .container input{
+
     width: 100%;
     height: 50px;
-    border: 1px solid #494eea
+    border: 1px solid #4a4fdb;
     outline: 0;
     padding: 10px;
     margin: 10px 0 20px;
@@ -39,12 +39,12 @@ body{
 .container button{
     width: 100%;
     height: 50px;
-    background: #ffffff
-    color: #ffff
+    background: #ffffff;
+    color: #ffff;
     border: 0;
     outline: 0;
     border-radius: 5px;
-    box-shadow: 0 19px 10px rgba(0,0,0,0.1);
+    box-shadow: 0 19px 10px rgba(0, 0, 0, 0.068);
     cursor: pointer;
     margin: 20px 0;
     font-weight: 500;
